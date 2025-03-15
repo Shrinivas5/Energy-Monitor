@@ -6,6 +6,11 @@ A comprehensive IoT application for monitoring and managing energy consumption i
 
 This application provides a user-friendly interface for monitoring energy consumption from various smart home devices. It allows users to track usage patterns, set energy budgets, and receive alerts when consumption exceeds predefined thresholds.
 
+
+## Architecture diagram
+![architecture diagram](https://github.com/user-attachments/assets/f41705e8-e4ad-4c72-be8c-dd709a56723e)
+
+
 ### Key Features
 
 - **Real-time Energy Monitoring**: View current and historical energy consumption data
